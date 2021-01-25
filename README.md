@@ -20,6 +20,6 @@ Love to explore new things, and learn a variety of things.
 
 ## My tech stack
 
-<img src="https://miro.medium.com/max/693/1*v4LXaVKgUORTM_BP565Q8g.jpeg"/> Kotlin
+<img align="left" width="26px" src="https://miro.medium.com/max/693/1*v4LXaVKgUORTM_BP565Q8g.jpeg" /> Kotlin
 
 ## Where can you find me?
