@@ -1,14 +1,12 @@
-# Hi there! I'm [**Adithya**](https://bp-gc.in/Adi 'My Portfolio')!
-
-<br/>
+# Hi there! I'm [**Adithya**](https://bp-gc.in/Adi 'My Portfolio')!:smile:
 
 ## Who am I?
 
 - :computer:Computer Science sophomore at BITS Pilani KK Birla Goa Campus
   <br/>
-- Senior Developer at DevSoc BITS Goa
+- :school:Senior Developer at DevSoc BITS Goa
   <br/>
-- Full Stack Developer at The Caarya Experience
+- :keyboard:Full Stack Developer at The Caarya Experience
   <br/>
 - I am an eager student, and a software engineer. Found refuge in books, cinema, and in stoic philosophy.
 
