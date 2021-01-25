@@ -21,6 +21,16 @@ Love to explore new things, and learn a variety of things.
 ## My tech stack
 
 ![Kotlin](https://user-images.githubusercontent.com/56926966/105705295-0879ba00-5f36-11eb-8d30-619a42dbe15d.jpg)
+![Java](https://user-images.githubusercontent.com/56926966/105706016-0401d100-5f37-11eb-9ff3-4e1549b546b4.png)
+![android](https://user-images.githubusercontent.com/56926966/105706042-0cf2a280-5f37-11eb-8868-1ceec6ffdaaa.png)
+![html](https://user-images.githubusercontent.com/56926966/105706054-124fed00-5f37-11eb-9ae3-4c91ffd7b330.png)
+![css](https://user-images.githubusercontent.com/56926966/105706061-154add80-5f37-11eb-82e8-87a15616c0e5.png)
+![js](https://user-images.githubusercontent.com/56926966/105706067-1714a100-5f37-11eb-83ad-9c3465e474a3.png)
+![mern](https://user-images.githubusercontent.com/56926966/105706148-2eec2500-5f37-11eb-86a7-0d1f6350232e.png)
+![python](https://user-images.githubusercontent.com/56926966/105706083-1bd95500-5f37-11eb-8b26-1388f19ef481.jpg)
+![c++](https://user-images.githubusercontent.com/56926966/105706087-1d0a8200-5f37-11eb-8c11-a8a625302ba2.png)
+![eth](https://user-images.githubusercontent.com/56926966/105706099-1f6cdc00-5f37-11eb-8849-8650d2e8904a.png)
+
 
 ## Where can you find me?
 
