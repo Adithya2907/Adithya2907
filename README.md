@@ -27,4 +27,4 @@ Love to explore new things, and learn a variety of things.
 <a href="https://bp-gc.in/Adi"><img src="https://img.shields.io/badge/-Adithya-brightgreen"/></a>
 <a href="mailto:m.adithya777@gmail.com"><img src="https://img.shields.io/badge/-m.adithya777-red"/></a>
 <a href="https://www.linkedin.com/in/adithya-manickavasakam-5018b4193/"><img src="https://img.shields.io/badge/-Adithya%20Manickavasakam-blue"/></a>
-<a href="https://github.com/Adithya2907/?tab=follow"><img src="https://img.shields.io/badge/-Follow-grey/Github"/></a>
+<a href="https://github.com/Adithya2907/?tab=follow"><img src="https://img.shields.io/github/followers/Adithya2907?label=Follow&style=social"/></a>
