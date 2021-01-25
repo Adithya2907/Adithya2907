@@ -29,7 +29,7 @@ Love to explore new things, and learn a variety of things.
 <img src="https://user-images.githubusercontent.com/56926966/105706148-2eec2500-5f37-11eb-86a7-0d1f6350232e.png" alt="MERN" height="50px" align="left"/>
 <img src="https://user-images.githubusercontent.com/56926966/105706083-1bd95500-5f37-11eb-8b26-1388f19ef481.jpg" alt="Python" height="50px" align="left"/>
 <img src="https://user-images.githubusercontent.com/56926966/105706087-1d0a8200-5f37-11eb-8c11-a8a625302ba2.png" alt="C++" height="50px" align="left"/>
-<img src="https://user-images.githubusercontent.com/56926966/105706099-1f6cdc00-5f37-11eb-8849-8650d2e8904a.png" alt="Ethereum" height="50px" align="left"/>
+<img src="https://user-images.githubusercontent.com/56926966/105706099-1f6cdc00-5f37-11eb-8849-8650d2e8904a.png" alt="Ethereum" height="50px" />
 
 <br/>
 <hr/>
