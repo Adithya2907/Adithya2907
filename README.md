@@ -24,6 +24,6 @@ Love to explore new things, and learn a variety of things.
 
 ## Where can you find me?
 
-https://img.shields.io/badge/-https%3A%2F%2Fbp--gc.in%2FAdi-green
-https://img.shields.io/badge/-m.adithya777%40gmail.com-red
-https://img.shields.io/badge/-Adithya%20Manickavasakam-blue
+<img src="https://img.shields.io/badge/-https%3A%2F%2Fbp--gc.in%2FAdi-green"/>
+<img src="https://img.shields.io/badge/-m.adithya777%40gmail.com-red"/>
+<img src="https://img.shields.io/badge/-Adithya%20Manickavasakam-blue"/>
