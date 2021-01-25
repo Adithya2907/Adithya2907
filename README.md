@@ -23,3 +23,7 @@ Love to explore new things, and learn a variety of things.
 <img align="left" width="26px" src="https://miro.medium.com/max/693/1*v4LXaVKgUORTM_BP565Q8g.jpeg" /> Kotlin
 
 ## Where can you find me?
+
+https://img.shields.io/badge/-https%3A%2F%2Fbp--gc.in%2FAdi-green
+https://img.shields.io/badge/-m.adithya777%40gmail.com-red
+https://img.shields.io/badge/-Adithya%20Manickavasakam-blue
