@@ -32,6 +32,8 @@ Love to explore new things, and learn a variety of things.
 <img src="https://user-images.githubusercontent.com/56926966/105706099-1f6cdc00-5f37-11eb-8849-8650d2e8904a.png" alt="Ethereum" height="50px" align="left"/>
 
 <br/>
+<hr/>
+<br/>
 
 ## Where can you find me?
 
