@@ -2,11 +2,11 @@
 
 ## Who am I?
 
-- :computer:Computer Science sophomore at BITS Pilani KK Birla Goa Campus
+- :computer:Computer Science sophomore at [BITS Pilani KK Birla Goa Campus](https://www.bits-pilani.ac.in/goa/)
   <br/>
-- :school:Senior Developer at DevSoc BITS Goa
+- :school:Senior Developer at [DevSoc BITS Goa](https://devsoc.club/)
   <br/>
-- :keyboard:Full Stack Developer at The Caarya Experience
+- :keyboard:Full Stack Developer at [The Caarya Experience](https://www.linkedin.com/company/caarya/)
   <br/>
 - I am an eager student, and a software engineer. Found refuge in books, cinema, and in stoic philosophy.
 
@@ -16,7 +16,7 @@
 
 I love to build apps that solve real world problems. Interested in Android app developement, and full stack web development. I have also built dapps using Ethereum and Web3js, using Solidity programming language. Exploring the field of Machine Learning currently.
 <br>
-Love to explore new things, and learn a variety of things.
+Love to explore and learn a variety of things.
 
 ## My tech stack
 
