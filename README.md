@@ -20,9 +20,9 @@ Love to explore new things, and learn a variety of things.
 
 ## My tech stack
 
-<img src="https://user-images.githubusercontent.com/56926966/105705295-0879ba00-5f36-11eb-8d30-619a42dbe15d.jpg" alt="Kotlin" height="50px"/>
-<img src="https://user-images.githubusercontent.com/56926966/105706016-0401d100-5f37-11eb-9ff3-4e1549b546b4.png" alt="Java" height="50px"/>
-<img src="https://user-images.githubusercontent.com/56926966/105706042-0cf2a280-5f37-11eb-8868-1ceec6ffdaaa.png" alt="Android" height="50px"/>
+<img src="https://user-images.githubusercontent.com/56926966/105705295-0879ba00-5f36-11eb-8d30-619a42dbe15d.jpg" alt="Kotlin" height="50px" align="left"/>
+<img src="https://user-images.githubusercontent.com/56926966/105706016-0401d100-5f37-11eb-9ff3-4e1549b546b4.png" alt="Java" height="50px" align="left"/>
+<img src="https://user-images.githubusercontent.com/56926966/105706042-0cf2a280-5f37-11eb-8868-1ceec6ffdaaa.png" alt="Android" height="50px" align="left"/>
 <img src="https://user-images.githubusercontent.com/56926966/105706054-124fed00-5f37-11eb-9ae3-4c91ffd7b330.png" alt="HTML" height="50px"/>
 <img src="https://user-images.githubusercontent.com/56926966/105706061-154add80-5f37-11eb-82e8-87a15616c0e5.png" alt="CSS" height="50px"/>
 <img src="https://user-images.githubusercontent.com/56926966/105706067-1714a100-5f37-11eb-83ad-9c3465e474a3.png" alt="JS" height="50px"/>
