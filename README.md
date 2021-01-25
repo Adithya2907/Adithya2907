@@ -20,7 +20,7 @@ Love to explore new things, and learn a variety of things.
 
 ## My tech stack
 
-![Kotlin](https://user-images.githubusercontent.com/56926966/105705295-0879ba00-5f36-11eb-8d30-619a42dbe15d.jpg)
+<img src="https://user-images.githubusercontent.com/56926966/105705295-0879ba00-5f36-11eb-8d30-619a42dbe15d.jpg" alt="Kotlin" width="250px" height="50px"/>
 ![Java](https://user-images.githubusercontent.com/56926966/105706016-0401d100-5f37-11eb-9ff3-4e1549b546b4.png)
 ![android](https://user-images.githubusercontent.com/56926966/105706042-0cf2a280-5f37-11eb-8868-1ceec6ffdaaa.png)
 ![html](https://user-images.githubusercontent.com/56926966/105706054-124fed00-5f37-11eb-9ae3-4c91ffd7b330.png)
