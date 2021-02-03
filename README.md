@@ -1,4 +1,4 @@
-# Hi there! I'm [**Adithya**](https://bp-gc.in/Adi 'My Portfolio')!:smile:
+# Hi there! I'm [**Adithya**](https://adithya2907.github.io/ 'My Portfolio')!:smile:
 
 ## Who am I?
 
