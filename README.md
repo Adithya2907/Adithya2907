@@ -8,7 +8,7 @@
   <br/>
 - :keyboard:Full Stack Developer at [The Caarya Experience](https://www.linkedin.com/company/caarya/)
   <br/>
-- I am an eager student, and a software engineer. Found refuge in books, cinema, and in stoic philosophy.
+- I am an eager student, and a software engineer.
 
 <br/>
 
