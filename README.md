@@ -16,7 +16,7 @@
 
 I love to build apps that solve real world problems. Interested in Android app developement, and full stack web development. I have also built dapps using Ethereum and Web3js, using Solidity programming language. Exploring the field of Machine Learning currently.
 <br>
-Love to explore and learn a variety of things.
+Love to explore and learn a variety of things. Obssessed about computer science and technology.
 
 ## My tech stack
 
