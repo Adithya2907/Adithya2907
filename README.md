@@ -4,7 +4,7 @@
 
 - :computer:Computer Science sophomore at [BITS Pilani KK Birla Goa Campus](https://www.bits-pilani.ac.in/goa/)
   <br/>
-- :school:Senior Developer at [DevSoc BITS Goa](https://devsoc.club/)
+- :school:Co-Coordinator at [DevSoc BITS Goa](https://devsoc.club/)
   <br/>
 - :keyboard:Full Stack Developer at [The Caarya Experience](https://www.linkedin.com/company/caarya/)
   <br/>
